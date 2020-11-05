@@ -1,0 +1,38 @@
+{
+  "filmes": {
+    "data": [
+      {
+        "id": "01",
+        "title": "IT - A Coisa",
+        "director": "Andy Muschietti",
+        "year": "2017",
+        "duration": "2h 15m",
+        "type": "Terror"
+      },
+      {
+        "id": "02",
+        "title": "Vingadores: Guerra Infinita",
+        "director": "Joe Russo, Anthony Russo",
+        "year": "2018",
+        "duration": "2h 40m",
+        "type": "Ação/Ficção científica"
+      },
+      {
+        "id": "03",
+        "title": "Velozes & Furiosos: Hobbs & Shaw",
+        "director": "David Leitch",
+        "year": "2019",
+        "duration": "2h 16m",
+        "type": "Ação/Comédia"
+      },
+      {
+        "id": "04",
+        "title": "O Segredo: Ouse Sonhar",
+        "director": "Andy Tennant",
+        "year": "2020",
+        "duration": "1h 47m",
+        "type": "Romance/Drama"
+      }
+    ]
+  }
+}
